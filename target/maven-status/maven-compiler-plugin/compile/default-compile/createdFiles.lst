@@ -1,0 +1,5 @@
+Hibernate\main.class
+DAL\DAL.class
+DAL\DatabaseManager.class
+BLL\BLL.class
+Hibernate\Department.class
